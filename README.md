@@ -14,7 +14,9 @@ To get an interactive development environment run:
     lein figwheel
 or
 
-    rlwrap lein figwheel (better repl)
+    rlwrap lein figwheel
+
+(better repl)
 
 
 and open your browser at [localhost:3449](http://localhost:3449/).

@@ -1,55 +1,24 @@
 (ns timjs26.core
-  (:require [reagent.core :as r :refer [atom]]))
+  (:require [reagent.core :as reagent :refer [atom]]))
 
 (enable-console-print!)
-(println "Edi1ts to  his te xt sh ould show  up in your developer console.")
 
+(println "Edits to this text should show up in your developer console.")
 
+;; define your app data so that it doesn't get over-written on reload
 
+(defonce app-state (atom {:text "Hello world!"}))
 
+(defn hello-world []
+  [:h1 (:text @app-state)])
 
+(reagent/render-component [hello-world]
+                          (. js/document (getElementById "app")))
 
-;;MODEL
-(defonce model
-  (r/atom
-   {
-    :title "Weather app"
-    :weather {
-              :city "Timisoara"
-              :temp "+3"
-              }
-    }))
-
-
-;;VIEWS
-(defn weather-component [city temp]
-  [:div#weather
-    [:h2#city city ]
-    [:h3#temp temp]
-   ])
-
-
-
-
-(defn app []
-  [:h1 (get @model :title)
-   [weather-component (get-in @model [:weather :city]) (get-in @model [:weather :temp])]
-   ])
-
-
-
-
-
-
-(r/render-component [app]
-  (. js/document (getElementById "app")))
-
-
-
-
-
-(defn jsmodel []
-  (clj->js @model))
 
 (defn on-js-reload []
-  )
+  ;; optionally touch your app-state to force rerendering depending on
+  ;; your application
+  ;; (swap! app-state update-in [:__figwheel_counter] inc)
+)
+
