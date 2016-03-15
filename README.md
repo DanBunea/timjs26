@@ -1,6 +1,7 @@
 # timjs26
 
-FIXME: Write a one-line description of your library/project.
+The code for this presentation:
+https://www.icloud.com/keynote/000KXhGCaWpgIM2JAkOE2thJQ#Clojurescript
 
 ## Overview
 
@@ -10,7 +11,7 @@ FIXME: Write a paragraph about the library/project and highlight its goals.
 
 To get an interactive development environment run:
 
-    lein figwheel
+    lein figwheel or rlwrap lein figwheel (better repl)
 
 and open your browser at [localhost:3449](http://localhost:3449/).
 This will auto compile and send all changes to the browser without the
@@ -30,7 +31,7 @@ To create a production build run:
     lein do clean, cljsbuild once min
 
 And open your browser in `resources/public/index.html`. You will not
-get live reloading, nor a REPL. 
+get live reloading, nor a REPL.
 
 ## License
 
