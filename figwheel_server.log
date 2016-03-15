@@ -1,0 +1,303 @@
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.308 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.154 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.166 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.139 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.197 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+WARNING: Use of undeclared Var timjs26.core/clj-js at line 26 /Users/danbunea/Projects/timjs26/src/timjs26/core.cljs
+WARNING: Use of undeclared Var timjs26.core/model at line 26 /Users/danbunea/Projects/timjs26/src/timjs26/core.cljs
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.239 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+WARNING: Use of undeclared Var timjs26.core/clj-js at line 26 /Users/danbunea/Projects/timjs26/src/timjs26/core.cljs
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.161 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.196 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.276 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+WARNING: Use of undeclared Var timjs26.core/clj-js at line 26 /Users/danbunea/Projects/timjs26/src/timjs26/core.cljs
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.31 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.158 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/timjs26.js" failed.
+[0mjava.lang.AssertionError: No ns form found in src/timjs26/untitled.cljs
+ at cljs.analyzer$parse_ns$fn__1924.invoke (analyzer.cljc:2731)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2682)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2673)
+    cljs.compiler$find_source.invoke (compiler.cljc:1389)
+    clojure.core$map$fn__4553.invoke (core.clj:2624)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$reduce1.invoke (core.clj:909)
+    clojure.core$set.invoke (core.clj:3960)
+    cljs.closure$add_dependency_sources.invoke (closure.clj:731)
+    cljs.closure$build.invoke (closure.clj:1807)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:24)
+    figwheel_sidecar.build_middleware.injection$hook$fn__15892.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__16219.invoke (notifications.clj:187)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__16295.invoke (clj_reloading.clj:115)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__16341.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval16356$figwheel_start_and_end_messages__16359$fn__16361.invoke (cljs_autobuild.clj:47)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__16382$fn__16383.invoke (cljs_autobuild.clj:116)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__16382.invoke (cljs_autobuild.clj:114)
+    figwheel_sidecar.utils$sync_exec$fn__1973$fn__1974.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__1973.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+    clojure.lang.Agent$Action.run (Agent.java:163)
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.039 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.217 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.172 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.206 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.187 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.204 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.139 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/timjs26.js" failed.
+[0mjava.lang.AssertionError: No ns form found in src/timjs26/untitled.cljs
+ at cljs.analyzer$parse_ns$fn__1924.invoke (analyzer.cljc:2731)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2682)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2673)
+    cljs.compiler$find_source.invoke (compiler.cljc:1389)
+    clojure.core$map$fn__4553.invoke (core.clj:2624)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$reduce1.invoke (core.clj:909)
+    clojure.core$set.invoke (core.clj:3960)
+    cljs.closure$add_dependency_sources.invoke (closure.clj:731)
+    cljs.closure$build.invoke (closure.clj:1807)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:24)
+    figwheel_sidecar.build_middleware.injection$hook$fn__15892.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__16219.invoke (notifications.clj:187)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__16295.invoke (clj_reloading.clj:115)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__16341.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval16356$figwheel_start_and_end_messages__16359$fn__16361.invoke (cljs_autobuild.clj:47)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__16382$fn__16383.invoke (cljs_autobuild.clj:116)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__16382.invoke (cljs_autobuild.clj:114)
+    figwheel_sidecar.utils$sync_exec$fn__1973$fn__1974.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__1973.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+    clojure.lang.Agent$Action.run (Agent.java:163)
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.039 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.131 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/timjs26.js" failed.
+[0mjava.lang.AssertionError: No ns form found in src/timjs26/untitled.cljs
+ at cljs.analyzer$parse_ns$fn__1924.invoke (analyzer.cljc:2731)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2682)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2673)
+    cljs.compiler$find_source.invoke (compiler.cljc:1389)
+    clojure.core$map$fn__4553.invoke (core.clj:2624)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$reduce1.invoke (core.clj:909)
+    clojure.core$set.invoke (core.clj:3960)
+    cljs.closure$add_dependency_sources.invoke (closure.clj:731)
+    cljs.closure$build.invoke (closure.clj:1807)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:24)
+    figwheel_sidecar.build_middleware.injection$hook$fn__15892.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__16219.invoke (notifications.clj:187)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__16295.invoke (clj_reloading.clj:115)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__16341.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval16356$figwheel_start_and_end_messages__16359$fn__16361.invoke (cljs_autobuild.clj:47)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__16382$fn__16383.invoke (cljs_autobuild.clj:116)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__16382.invoke (cljs_autobuild.clj:114)
+    figwheel_sidecar.utils$sync_exec$fn__1973$fn__1974.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__1973.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+    clojure.lang.Agent$Action.run (Agent.java:163)
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.034 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.169 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.367 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.282 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.213 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.213 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.232 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.246 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.225 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.172 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.183 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.226 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+WARNING: Use of undeclared Var timjs26.core/city at line 30 /Users/danbunea/Projects/timjs26/src/timjs26/core.cljs
+WARNING: Use of undeclared Var timjs26.core/temp at line 30 /Users/danbunea/Projects/timjs26/src/timjs26/core.cljs
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.197 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.185 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.378 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.205 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.142 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.313 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.221 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.279 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.286 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+WARNING: Use of undeclared Var timjs26.core/chan at line 9 /Users/danbunea/Projects/timjs26/src/timjs26/core.cljs
+WARNING: No such namespace: aj, could not locate aj.cljs, aj.cljc, or Closure namespace "" at line 10 /Users/danbunea/Projects/timjs26/src/timjs26/core.cljs
+WARNING: Use of undeclared Var aj/GET at line 10 /Users/danbunea/Projects/timjs26/src/timjs26/core.cljs
+WARNING: Use of undeclared Var timjs26.core/put! at line 11 /Users/danbunea/Projects/timjs26/src/timjs26/core.cljs
+WARNING: Use of undeclared Var timjs26.core/safe-run at line 33 /Users/danbunea/Projects/timjs26/src/timjs26/core.cljs
+WARNING: Use of undeclared Var timjs26.core/go at line 34 /Users/danbunea/Projects/timjs26/src/timjs26/core.cljs
+WARNING: Use of undeclared Var timjs26.core/<! at line 38 /Users/danbunea/Projects/timjs26/src/timjs26/core.cljs
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.412 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+WARNING: No such namespace: aj, could not locate aj.cljs, aj.cljc, or Closure namespace "" at line 15 src/timjs26/core.cljs
+WARNING: Use of undeclared Var aj/GET at line 15 src/timjs26/core.cljs
+WARNING: Use of undeclared Var timjs26.core/safe-run at line 38 src/timjs26/core.cljs
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.43 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/timjs26.js" failed.
+[0mANALYSIS ERROR: No such namespace: ajax.core, could not locate ajax/core.cljs, ajax/core.cljc, or Closure namespace "ajax.core" on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.175 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+WARNING: No such namespace: aj, could not locate aj.cljs, aj.cljc, or Closure namespace "" at line 16 src/timjs26/core.cljs
+WARNING: Use of undeclared Var aj/GET at line 16 src/timjs26/core.cljs
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.427 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/timjs26.js" failed.
+[0mclojure.lang.ExceptionInfo: Only :as alias and :refer (names) options supported in :require; offending spec: [ajax.core :as :refer [GET POST]] at line 1 src/timjs26/core.cljs
+ at clojure.core$ex_info.invoke (core.clj:4593)
+    cljs.analyzer$error.invoke (analyzer.cljc:568)
+    cljs.analyzer$error.invoke (analyzer.cljc:566)
+    cljs.analyzer$basic_validate_ns_spec.invoke (analyzer.cljc:1698)
+    cljs.analyzer$parse_require_spec.invoke (analyzer.cljc:1739)
+    clojure.lang.AFn.applyToHelper (AFn.java:171)
+    clojure.lang.AFn.applyTo (AFn.java:144)
+    clojure.core$apply.invoke (core.clj:636)
+    clojure.core$partial$fn__4533.doInvoke (core.clj:2512)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$map$fn__4553.invoke (core.clj:2624)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$reduce1.invoke (core.clj:909)
+    clojure.core$reduce1.invoke (core.clj:900)
+    clojure.core$merge_with.doInvoke (core.clj:2936)
+    clojure.lang.RestFn.applyTo (RestFn.java:139)
+    clojure.core$apply.invoke (core.clj:634)
+    cljs.analyzer$eval1651$fn__1653$fn__1658.invoke (analyzer.cljc:1926)
+    clojure.core.protocols/fn (protocols.clj:167)
+    clojure.core.protocols$fn__6478$G__6473__6487.invoke (protocols.clj:19)
+    clojure.core.protocols$seq_reduce.invoke (protocols.clj:31)
+    clojure.core.protocols/fn (protocols.clj:101)
+    clojure.core.protocols$fn__6452$G__6447__6465.invoke (protocols.clj:13)
+    clojure.core$reduce.invoke (core.clj:6519)
+    cljs.analyzer$eval1651$fn__1653.invoke (analyzer.cljc:1909)
+    clojure.lang.MultiFn.invoke (MultiFn.java:251)
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.04 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.237 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.223 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.476 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.148 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.157 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.15 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.263 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.321 seconds.[0m
