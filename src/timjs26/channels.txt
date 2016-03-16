@@ -1,0 +1,13 @@
+(def ch (chan))
+
+
+(go
+ (print 1)
+ (print (<! ch))
+ (print 3))
+
+
+;; (put! ch 2)
+
+(defn xx []
+  (put! ch 2))

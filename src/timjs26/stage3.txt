@@ -7,7 +7,6 @@
    )
   (:require-macros
    [cljs.core.async.macros :refer [go]]
-   [timjs26.macros :refer [safe gosafe <? ]]
    )
 
   )

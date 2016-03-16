@@ -635,3 +635,118 @@ notifying browser that file changed:  out/timjs26/core.js
 notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
 notifying browser that file changed:  out/timjs26/core.js
 [32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.16 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.305 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.529 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/timjs26.js" failed.
+[0mANALYSIS ERROR: Could not locate timjs26/macros__init.class or timjs26/macros.clj on classpath. on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.171 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.491 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.216 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.446 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.589 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.679 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.636 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.62 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.243 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.608 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.399 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.46 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.478 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.604 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.585 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.38 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.331 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.376 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+WARNING: Use of undeclared Var timjs26.core/x at line 49 src/timjs26/core.cljs
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.372 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.313 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.452 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.538 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/timjs26.js" failed.
+[0mjava.lang.AssertionError: No ns form found in src/timjs26/untitled.cljs
+ at cljs.analyzer$parse_ns$fn__1924.invoke (analyzer.cljc:2731)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2682)
+    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2673)
+    cljs.compiler$find_source.invoke (compiler.cljc:1389)
+    clojure.core$map$fn__4553.invoke (core.clj:2624)
+    clojure.lang.LazySeq.sval (LazySeq.java:40)
+    clojure.lang.LazySeq.seq (LazySeq.java:49)
+    clojure.lang.Cons.next (Cons.java:39)
+    clojure.lang.RT.next (RT.java:674)
+    clojure.core/next (core.clj:64)
+    clojure.core$reduce1.invoke (core.clj:909)
+    clojure.core$set.invoke (core.clj:3960)
+    cljs.closure$add_dependency_sources.invoke (closure.clj:731)
+    cljs.closure$build.invoke (closure.clj:1807)
+    cljs.build.api$build.invoke (api.clj:207)
+    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:24)
+    figwheel_sidecar.build_middleware.injection$hook$fn__15892.invoke (injection.clj:139)
+    figwheel_sidecar.build_middleware.notifications$hook$fn__16219.invoke (notifications.clj:187)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__16295.invoke (clj_reloading.clj:115)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__16341.invoke (javascript_reloading.clj:60)
+    figwheel_sidecar.components.cljs_autobuild$eval16356$figwheel_start_and_end_messages__16359$fn__16361.invoke (cljs_autobuild.clj:47)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__16382$fn__16383.invoke (cljs_autobuild.clj:116)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__16382.invoke (cljs_autobuild.clj:114)
+    figwheel_sidecar.utils$sync_exec$fn__1973$fn__1974.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__1973.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+    clojure.lang.Agent$Action.run (Agent.java:163)
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.04 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.256 seconds.[0m
+[0mCompiling "resources/public/js/compiled/timjs26.js" from ["src"]...
+notifying browser that file changed:  out/timjs26/core.js
+[32mSuccessfully compiled "resources/public/js/compiled/timjs26.js" in 0.472 seconds.[0m
